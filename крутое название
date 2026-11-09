@@ -131,6 +131,15 @@ def play_round():
 
 
 def main():
+    print("ПРУВЕТ Я КРЕСТИК")
+    print("ПРУВЕТ Я КРЕСТИК")
+    print("ПРУВЕТ Я КРЕСТИК")
+    print("ПРУВЕТ Я КРЕСТИК")
+    print("ПРУВЕТ Я КРЕСТИК")
+    print("ПРУВЕТ Я КРЕСТИК")
+    print("ПРУВЕТ Я КРЕСТИК")
+    print("ПРУВЕТ Я КРЕСТИК")
+    print("ПРУВЕТ Я КРЕСТИК")
     print("Welcome to Tic-Tac-Toe!")
     while True:
         play_round()
